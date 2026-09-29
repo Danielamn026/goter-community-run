@@ -60,3 +60,25 @@ GoTer/
 ├── gradle.properties
 ├── README.md
 └── .gitignore
+
+```
+ ## Configuration
+Make sure your Firebase project is configured with:
+
+- Authentication methods enabled
+- Realtime Database access rules configured
+- Google Maps / location services enabled if required
+  
+## Main Screens
+The application includes modules for:
+
+- Login and registration
+- Home dashboard
+- User profile
+- Communities
+- Race creation
+- Maps and route display
+- Statistics
+- Notifications
+- Chat
+  
